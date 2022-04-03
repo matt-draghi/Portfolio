@@ -1,0 +1,40 @@
+nav {
+    position: sticky;
+    top:0;
+    background-color: #E7E393;
+    z-index: 5;
+}
+
+nav .header-container{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.header-container ul{
+    list-style-type: none;
+}
+
+.header-container ul li{
+    display: inline-block;
+}
+
+.header-container a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 50px;
+    color: #2B3A67
+}
+
+nav .header-container ul li.active{
+    background-color: #F4C95D;
+    border-radius: 25px;
+    transition: 0.3 ease-out background-color;
+}
+
+nav .header-container ul li.active a{
+    color: #496A81
+}

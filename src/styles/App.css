@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  /* overflow: scroll; */
+}
+
+html{
+  scroll-behavior: smooth;
+  color: #2B3A67
+}
+
+section{
+  height: 100vh;
+  width: 100%;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

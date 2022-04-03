@@ -1,0 +1,77 @@
+#portfolio{
+    background-color: #DB995A;
+    display: flex;
+    flex-direction: column;
+}
+
+#portfolio-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.project{
+    display: flex;
+    flex-direction: column;
+}
+
+.project-image{
+    border: solid #E7E393;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.project-image:hover .project-image{
+    opacity: 0.3;
+}
+  
+  .middle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s ease;
+    opacity: 0;
+    text-align: center;
+  }
+
+  .project-image:hover .middle {
+    opacity: 0.8;
+  }
+  
+  .text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 1.4rem;
+    height: 300px;
+    width: 300px;
+    opacity: 1;
+    border-radius: 15px;
+  }
+
+.project-links a{
+    text-decoration: none;
+    color: #2B3A67;
+}
+
+#cantina{
+    background-image: url(../assets/cantina.png);
+    background-size: 300px 300px;
+}
+
+#dotify{
+    background-image: url(../assets/dotify.png);
+    background-size: 300px 300px;
+}
+
+#baby{
+    background-image: url(../assets/baby.png);
+    background-size: 300px 300px;
+}
