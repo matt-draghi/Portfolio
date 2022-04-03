@@ -1,3 +1,13 @@
 #work{
     background-color: #E24E1B;
 }
+
+.job-header{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.job-header ul li{
+    font-size: 1.5rem;
+}
