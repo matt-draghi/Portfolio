@@ -6,7 +6,7 @@ function Education(){
                 <div className="school">
                     <h1>Flatiron School</h1>
                     <p>Full Stack Web Development, Ruby on Rails and JavaScript program </p>
-                    <p>01/2022 - Present</p>
+                    <p>Expected Graduation April 2022</p>
                 </div>
                 <br/>
                 <div className="school">
@@ -14,7 +14,7 @@ function Education(){
                     <p>B.S. Information Sciences and Technology (Application Design and Development)</p>
                     <p>B.S. Security and Risk Analysis (Information and Cyber Security)</p>
                     <p>National Security Association Certificate</p>
-                    <p>08/2015 - 12/2019</p>
+                    <p>Graduated December 2019</p>
                 </div>
             </div>
         </section>
