@@ -6,6 +6,7 @@ function Work(){
                 <div className="job-header">
                     <h1>Grant Thornton LLP</h1>
                     <h2>Cyber Risk Associate</h2>
+                    <h3>August 2020 - December 2021</h3>
                     <ul>
                         <li>Launched Cloud Security Initiative company-wide to expand Grant Thornton’s client base</li>
                         <br/>

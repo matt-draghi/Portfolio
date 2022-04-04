@@ -61,6 +61,12 @@
     color: #2B3A67;
 }
 
+.project-links a:hover{
+    text-decoration: none;
+    transition: .5s ease;
+    color: #E7E393;
+}
+
 #cantina{
     background-image: url(../assets/cantina.png);
     background-size: 300px 300px;

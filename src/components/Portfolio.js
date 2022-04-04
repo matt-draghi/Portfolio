@@ -27,6 +27,7 @@ function Portfolio(){
 
     return(
         <section id="portfolio">
+            <h1>Click On a Project to View the Demo</h1>
             <div id="portfolio-container">
                 <div className="project"> 
                     <a href={projectList[0]["demo"]} target="_blank">
@@ -38,7 +39,7 @@ function Portfolio(){
                     </a>
                     <div className="project-links">
                         <h3><a href={projectList[0]["github"]} target="_blank">Github</a></h3>
-                        <h3><a href={projectList[0]["link"]} target="_blank">Link</a></h3>
+                        <h3><a href={projectList[0]["link"]} target="_blank">Website</a></h3>
                     </div>
                 </div>
                 <div className="project">
