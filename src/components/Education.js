@@ -6,7 +6,7 @@ function Education(){
                 <div className="school">
                     <h1>Flatiron School</h1>
                     <p>Full Stack Web Development, Ruby on Rails and JavaScript program </p>
-                    <p>Expected Graduation April 2022</p>
+                    <p>Graduated April 2022</p>
                 </div>
                 <br/>
                 <div className="school">
