@@ -4,6 +4,17 @@ function Work(){
         <section id="work" >
             <div id="work-container">
                 <div className="job-header">
+                    <h1>PNC</h1>
+                    <h2>Software Developer Associate</h2>
+                    <h3>May 2022 -  Present</h3>
+                    <ul>
+                        <li>Work with team of engineers in an agile setting to respond to Jira tickets for innovation and support</li>
+                        <br/>
+                        <li>Brainstorm potential solutions to develop internal learning management solution for employees</li>
+                        <br/>
+                        <li>Refactor internal Java utility that communicates with third-party APIs to be more efficient</li>
+                        <br/>
+                    </ul>
                     <h1>Grant Thornton LLP</h1>
                     <h2>Cyber Risk Associate</h2>
                     <h3>August 2020 - December 2021</h3>
