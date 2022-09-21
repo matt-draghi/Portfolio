@@ -10,9 +10,11 @@ function Work(){
                     <ul>
                         <li>Work with team of engineers in an agile setting to respond to Jira tickets for innovation and support</li>
                         <br/>
-                        <li>Brainstorm potential solutions to develop internal learning management solution for employees</li>
+                        <li>Develop frontend game for internal learning management solution using Vue</li>
                         <br/>
-                        <li>Refactor internal Java utility that communicates with third-party APIs to be more efficient</li>
+                        <li>Pair-program with teammates allowing for growth and development of fellow developers</li>
+                        <br/>
+                        <li>Automate metric work using Java and Python allowing an 8-hour task to be performed in 5 minutes</li>
                         <br/>
                     </ul>
                     <h1>Grant Thornton LLP</h1>
